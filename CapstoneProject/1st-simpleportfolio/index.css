@@ -1,0 +1,48 @@
+.nav{
+    margin-bottom:20px;
+}
+.body{
+    scroll-behavior:smooth;
+    /* transition:cubic-bezier(0.165, 0.84, 0.44, 1); */
+    /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+}
+.profile{
+    padding-bottom: 30px;
+}
+.name{
+    margin-top:10px;
+    margin-top: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.friend{
+    font-family:serif;
+}
+
+.friend-1{
+    font-family:serif;
+    font-size: 0.5 em;
+}
+
+
+.hover{
+    text-decoration: none;
+    color: black;
+}
+.hover:hover{
+    color: tomato;
+}
+
+.gradient-div {
+    background: linear-gradient(to bottom, #eb9311, #ffffff); /* Change colors as needed */
+    height: 200px; /* Set the overall height of the div */
+    position: relative;
+  }
+
+  .content {
+    position: relative;
+    z-index: 2; /* Ensure the content is on top of the gradient layer */
+  }
+
+
+ 
